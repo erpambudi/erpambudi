@@ -7,7 +7,7 @@
 :boy: The main concentration<br/>
 :heart: Flutter enthusiast<br/>
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Cloud-RESTful_API-informational?style=flat&logo=json&logoColor=white&color=blue)
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=erpambudi alt=erpambudi /> </p>
