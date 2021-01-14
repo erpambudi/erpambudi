@@ -1,6 +1,12 @@
 ## Hey 👋, This is Rizki Pambudi
 [![Gmail Badge](https://img.shields.io/badge/-17104032@ittelkompwt.ac.id-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:17104032@ittelkompwt.ac.id)](mailto:17104032@ittelkompwt.ac.id) [![Github Badge](https://img.shields.io/badge/-erpambudi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/erpambudi/)](https://www.github.com/erpambudi/) <p align='left'>Arra Araaaa ... Hello my name is Rizki Pambudi from Cilacap, Indonesia. I am very enthusiastic about developing mobile applications using the Flutter Framework.</p>
 
+## About Me
+:mortar_board: Still studying<br/>
+:muscle: Never give up<br/>
+:boy: The main concentration<br/>
+:heart: Flutter enthusiast<br/>
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=blue)
