@@ -1,5 +1,7 @@
 ## Hey 👋, This is Rizki Pambudi
-[![Gmail Badge](https://img.shields.io/badge/-17104032@ittelkom-pwt.ac.id-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:17104032@ittelkom-pwt.ac.id)](mailto:17104032@ittelkom-pwt.ac.id) [![Github Badge](https://img.shields.io/badge/-erpambudi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/erpambudi/)](https://www.github.com/erpambudi/) [![Linkedin Badge](https://img.shields.io/badge/-erpambudi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erpambudi/)](https://www.linkedin.com/in/erpambudi/) <p align='left'>Arra Araaaa ... Hello my name is Rizki Pambudi from Cilacap, Indonesia. I am very enthusiastic about developing mobile applications using the Flutter Framework.</p>
+[![Gmail Badge](https://img.shields.io/badge/-erpambudi0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:erpambudi0@gmail.com)](mailto:erpambudi0@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-erpambudi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erpambudi/)](https://www.linkedin.com/in/erpambudi/) [![Github Badge](https://img.shields.io/badge/-erpambudi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/erpambudi/)](https://www.github.com/erpambudi/) 
+<p align='left'>Arra Araaaa ... Hello my name is Rizki Pambudi from Cilacap, Indonesia. I am very enthusiastic about developing mobile applications using the Flutter Framework.</p>
 
 ## About Me
 :mortar_board: Still studying<br/>
